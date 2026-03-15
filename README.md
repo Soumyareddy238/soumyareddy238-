@@ -61,7 +61,8 @@ https://soumyareddy238.github.io
 
 GitHub: https://github.com/Soumyareddy238  
 LinkedIn:
-
+www.linkedin.com/in/
+soumyareddykotte
 
 ---
 
