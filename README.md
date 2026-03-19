@@ -38,6 +38,7 @@ An end-to-end ML web application for predicting house prices, recommending prope
 
 ### 🔹 Cloud Cost Optimization Platform  
 🔗 https://github.com/Soumyareddy238/Cloud-cost-optimization-platform-.git
+
 A Flask-based application that analyzes cloud usage data to detect high costs, inefficient resource usage, and provide optimization insights.
 
 ---
