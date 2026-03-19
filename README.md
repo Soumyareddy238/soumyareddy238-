@@ -35,6 +35,7 @@
 
 🔗 https://github.com/Soumyareddy238/House-price-prediction  
 An end-to-end ML web application for predicting house prices, recommending properties, and detecting anomalies using XGBoost, KNN, and Isolation Forest, integrated with a Flask-based backend.
+
 Built using XGBoost, KNN, and Flask to predict house prices, recommend properties, and detect anomalies in real estate data.
 
 ---
@@ -43,7 +44,9 @@ Built using XGBoost, KNN, and Flask to predict house prices, recommend propertie
 🔗 https://github.com/Soumyareddy238/Cloud-cost-optimization-platform-.git
 
 Flask-based platform for analyzing cloud usage data and optimizing costs through insights and recommendation.
+
 Developed a Flask-based platform using Python and Pandas to analyze cloud usage data and provide cost optimization insights.
+
 ---
 
 ### 🔹 Portfolio Website  
