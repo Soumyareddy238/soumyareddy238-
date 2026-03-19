@@ -17,12 +17,18 @@
 
 ## 💻 Projects
 
-🔹 **Cloud Cost Optimization Platform**  
-A Python and Flask-based web application that analyzes cloud usage datasets to detect high cloud bills, identify inefficient resource utilization, and provide optimization insights.
+### 🔹 Smart Real Estate Price Prediction System  
+An end-to-end ML web application for predicting house prices, recommending properties, and detecting anomalies using XGBoost, KNN, and Isolation Forest, integrated with a Flask-based backend.
 
-🔹 **Portfolio Website**  
-Personal portfolio built using HTML and deployed using GitHub Pages to showcase projects, certifications, and skills.
+---
 
+### 🔹 Cloud Cost Optimization Platform  
+A Flask-based application that analyzes cloud usage data to identify high costs, inefficient resource usage, and provides actionable optimization recommendations.
+
+---
+
+### 🔹 Portfolio Website  
+A personal portfolio website developed using HTML and deployed via GitHub Pages to showcase projects, skills, and achievements.
 ---
 
 ## 📜 Certifications
