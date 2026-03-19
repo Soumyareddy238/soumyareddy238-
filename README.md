@@ -38,8 +38,8 @@ An end-to-end ML web application for predicting house prices, recommending prope
 
 ### 🔹 Cloud Cost Optimization Platform  
 🔗 https://github.com/Soumyareddy238/Cloud-cost-optimization-platform-.git
+Flask-based platform for analyzing cloud usage data and optimizing costs through insights and recommendation.
 
-Flask-based platform for analyzing cloud usage data and optimizing costs through insights and recommendations.
 ---
 
 ### 🔹 Portfolio Website  
