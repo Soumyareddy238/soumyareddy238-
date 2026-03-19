@@ -31,6 +31,7 @@
 ## 💻 Projects
 
 ### 🔹 Smart Real Estate Price Prediction System  
+
 🔗 https://github.com/Soumyareddy238/House-price-prediction  
 An end-to-end ML web application for predicting house prices, recommending properties, and detecting anomalies using XGBoost, KNN, and Isolation Forest, integrated with a Flask-based backend.
 
