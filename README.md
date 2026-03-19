@@ -7,6 +7,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyareddy238&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Soumyareddy238&theme=radical)
 
 ---
 
